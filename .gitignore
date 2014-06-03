@@ -1,2 +1,4 @@
 *.idea
 personal/
+*.log
+build/
